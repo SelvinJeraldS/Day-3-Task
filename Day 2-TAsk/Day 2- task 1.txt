@@ -1,0 +1,21 @@
+
+Window Object 
+
+-> Acts as the Global object for javascript in the browser.
+-> provides information about the browser environment,like Window
+   size,location,and navigation.
+   for example: window.location(document)  will return document Object.
+-> It Offers Methods to interact With the browser window,such as opening
+   new window,setting timeouts,and intervals.
+-> Each frame has its own window object, and parent frames
+   can access child frames through the window.frames collection.     
+
+
+Document Object
+
+->Represents the structure of the HTML document as a tree of nodes 
+  and provides methods to manipulate it.( DOM mainpulation)
+->  Deals with JavaScript events within the document,
+   allowing developers to attach event listeners to elements. (Event Handling) 
+-> Provides access to form elements, enabling manipulation of form data and submission.
+-> Contains properties like title, URL, and body, giving information about the document itself.                     

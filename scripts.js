@@ -1,5 +1,5 @@
 // //!How to Compare two JSON have the same properties without order?
-/
+
 
 let obj1 = {name: "Person", age: 5};
 let obj2 = {age: 5, name: "Person"};
