@@ -1,0 +1,1 @@
+This is todays assignment about Objects and xmlhttprequest
